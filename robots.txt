@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyohngie.ulyssesolsen.com/sitemap.xml
